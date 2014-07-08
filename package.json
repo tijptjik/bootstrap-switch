@@ -26,12 +26,10 @@
     }
   ],
   "main": "dist/js/bootstrap-switch.js",
-  "dependencies": {
-    "jquery": ">=1.9.0"
-  },
+  "dependencies": {},
   "repository": {
     "type": "git",
-    "url": "git://github.com/nostalgiaz/bootstrap-switch.git"
+    "url": "git://github.com/tijptjik/bootstrap-switch.git"
   },
   "bugs": "https://github.com/nostalgiaz/bootstrap-switch/issues",
   "license": "Apache Version 2",
